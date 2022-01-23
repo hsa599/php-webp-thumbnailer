@@ -82,6 +82,7 @@ Here you have `image/webp` source for
 [browsers which support WebP images](https://caniuse.com/#search=WebP)
 and traditional (PNG, JPEG, TIFF, GIF) image fallback.
 
+Useful for photo articles: https://www.delgarm.com/
 
 # Author
 
